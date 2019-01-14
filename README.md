@@ -38,7 +38,7 @@ text
 
 ## Related
 
-- [Sindre Sorhus](https://github.com/sindresorhus) - cool person
+- [Julian Beck](https://github.com/jufabeck2202) - cool person
 
 ## License
 
